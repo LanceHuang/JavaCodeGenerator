@@ -1,0 +1,4 @@
+package ${project.package}.resource;
+
+public class ${project.keyword}Resource {
+}

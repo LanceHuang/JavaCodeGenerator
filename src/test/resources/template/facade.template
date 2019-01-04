@@ -1,0 +1,4 @@
+package ${project.package}.facade;
+
+public class ${project.keyword}Facade {
+}
